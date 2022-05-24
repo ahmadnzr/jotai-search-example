@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.search-result {
+  margin-top: 10px;
+}
+
+.searching-text {
+  font-weight: bold;
+}
